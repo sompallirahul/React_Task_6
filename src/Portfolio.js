@@ -28,7 +28,7 @@ const Portfolio = () => {
       </section>
       <section className="contact">
         <h2>Contact</h2>
-        <p>You can reach me at levakurakeshreddy@gmail.com</p>
+        <p>You can reach me at rahulsompalli07@gmail.com</p>
       </section>
     </div>
   );
